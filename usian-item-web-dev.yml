@@ -1,6 +1,6 @@
 spring:
   application:
-    name: usian-item-web3
+    name: usian-item-web
   rabbitmq:
     host: 192.168.138.134
     username: admin
